@@ -56,7 +56,7 @@ const Category=()=>{
                 <br/>
                 <div className="items-center flex mt-16">
                     <h5 className="text-5xl">Best <span className="text-red-500">Delivered</span>Categories</h5>
-                    <p className="text-lg text-center ml-27" style={{ marginLeft: "27rem"}}>Here Are Some Of Our Best Distributed Categories.If You Want You<br/> Can Order From Here</p>
+                    <p className="text-lg text-center mt-12" style={{ marginLeft: "27rem"}}>Here Are Some Of Our Best Distributed Categories.If You Want You<br/> Can Order From Here</p>
                 </div>
                 <br/>
                 <br/>

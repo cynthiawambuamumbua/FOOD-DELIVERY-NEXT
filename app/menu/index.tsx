@@ -9,7 +9,7 @@ const Menu=()=>{
             <br/>
             <p className="ml-9">These Are Our Regular Menus.You can<br/>Order Anything You Like.</p>
             <div className="flex justify-end mr-14 mt-(-6)">
-        <button className="border border-red-600 bg-red-600 text-white px-4 py-2 rounded">See All</button>
+        <button className="border border-red-600 bg-red-600 text-white px-4 py-2 rounded mb-9">See All</button>
        </div>
        <br/>
        <br/>
@@ -116,7 +116,7 @@ const Menu=()=>{
         />
       </div>
             <div className="w-339 h-270 ml-2em border border-box mt-2em">
-      <div className="bg-red-200 p-4 h-full rounded ml-auto mt-0">
+            <div className="bg-red-200 p-4 h-full rounded ml-auto mt-0">
         <h1>Grill Sandwich</h1>
         <div className="flex">
           <FaStar size={16} color="gold" />
@@ -143,7 +143,7 @@ const Menu=()=>{
           alt="chicken burger"
         />
       </div>
-            <div className="w-339 h-270 ml-2em border border-box mt-2em">
+      <div className="w-339 h-270 ml-2em border border-box mt-2em">
       <div className="bg-red-200 p-4 h-full rounded ml-auto mt-0">
         <h1>Taco Traifi</h1>
         <div className="flex">
@@ -171,7 +171,7 @@ const Menu=()=>{
           alt="chicken burger"
         />
       </div>
-            <div className="w-339 h-270 ml-2em border border-box mt-2em">
+      <div className="w-339 h-270 ml-2em border border-box mt-2em">
       <div className="bg-red-200 p-2 h-full rounded ml-auto mt-(-3)">
         <h1 className="text-black-1800">Noddle's ramen</h1>
         <div className="flex">
